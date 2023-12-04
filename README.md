@@ -1,3 +1,5 @@
-My Practice
+OOP Lab
 <br>
-Author:Rii
+Learning Java
+<br>
+Semester:3rd
